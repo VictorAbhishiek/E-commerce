@@ -38,8 +38,7 @@ index.js: Entry point for React application.
 Contributing
 Contributions are welcome! Please fork the repository and create a pull request with your changes. Make sure to follow the existing code style and add tests if applicable.
 
-**License**
-This project is licensed under the MIT License. See the LICENSE file for details.
+
 
 **Acknowledgements**
 ReactJS for the powerful front-end library.
